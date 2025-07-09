@@ -2,4 +2,4 @@
 
 Hello, heres that readme!
 
-I am the wold thats broken
+I am the word thats broken
